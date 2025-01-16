@@ -1,0 +1,3 @@
+[submodule "pw-practice-app"]
+	path = pw-practice-app
+	url = https://github.com/bondar-artem/pw-practice-app.git
